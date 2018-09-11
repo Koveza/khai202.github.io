@@ -17,4 +17,7 @@ toc_sticky: true
 - Часть 1: Введение. Критерии работоспособности [(:link:)](https://github.com/khai202/dme/raw/master/es/es_dme_lectures_p1_rus.zip)
 - Часть 2: Соединения [(:link:)](https://github.com/khai202/dme/raw/master/es/es_dme_lectures_p2_rus.zip)
 - Часть 3: Передачи [(:link:)](https://github.com/khai202/dme/raw/master/es/es_dme_lectures_p3_rus.zip)
-- Часть 4: Валы, подшипники и муфты [(:link:)](https://github.com/khai202/dme/raw/master/es/es_dme_lectures_p4_rus.zip)
+- Часть 4: Валы, подшипники и муфты [(:link:)](https://github.com/khai202/dme/raw/master/es/es_dme_lectures_p4_rus.zip) 
+
+### ДЗ
+- Пособие для выполнения ДЗ: Проектирование передач винт-гайка [(:link:)](https://drive.google.com/open?id=18ruyfQeChMBOmcK1et91Yv67i-C5Y8iv)
